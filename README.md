@@ -1,6 +1,6 @@
 # 🤖 Jinhsi Bot - Wuthering Waves Event Tracker
 
-Este é um bot do Discord feito em Python que envia mensagens automáticas com **eventos ativos e futuros** do jogo **Wuthering Waves**.
+Este é um para Discord feito em Python que envia mensagens automáticas com **eventos ativos e futuros** do jogo **Wuthering Waves**.
 
 > ⚠️ O bot **não precisa ficar online continuamente**. Basta executá-lo sempre que quiser atualizar as informações no canal.
 
