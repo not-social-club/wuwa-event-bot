@@ -42,6 +42,7 @@ python main.py
 
 
 Jinhsi-bot/
+
 ├── main.py          # Código principal do bot
 
 ├── .env             # Arquivo com dados sensíveis (não subir para o GitHub!)
